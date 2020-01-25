@@ -1,0 +1,19 @@
+main:
+    - title: "Home"
+      url: /index/
+    - title: "Programming"
+      sublinks:
+      - title: Test1
+        url: /index/
+      - title: Test2
+        url: /index/
+      - title: Test3
+        url: /index/
+    - title: "Electronics"
+      sublinks:
+      - title: Test1
+        url: /index/
+      - title: Test2
+        url: /index/
+      - title: Test3
+        url: /index/
