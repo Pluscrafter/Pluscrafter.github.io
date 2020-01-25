@@ -1,15 +1,18 @@
-main:
-  - title: "About Me"
-    url: /about/
-  - title: "Tech Stream"
-    url: /techstream/
-  - title: "Travel Stream"
-    url: /travelstream/
-  - title: Archive
-    sublinks:
-      - title: By Tag
-        url: /tags/
-      - title: By Category
-        url: /categories/
-      - title: By Year
-        url: /year-archive/
+- title: About
+  url: /about.html
+- title: Team
+  url: /team.html
+- title: Contact
+  url: /contact.html
+- title: Store
+  url: /store.html
+- title: Support
+  url: /support.html
+  sublinks:
+    - title: FAQ
+      url: /faq.html
+    - title: Documentation
+      url: /documentation.html
+    - title: separator
+    - title: Customer Support
+      url: /customer-support.html
