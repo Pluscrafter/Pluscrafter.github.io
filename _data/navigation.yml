@@ -1,19 +1,15 @@
 main:
-    - title: "Home"
-      url: /index/
-    - title: "Programming"
-      sublinks:
-      - title: Test1
-        url: /index/
-      - title: Test2
-        url: /index/
-      - title: Test3
-        url: /index/
-    - title: "Electronics"
-      sublinks:
-      - title: Test1
-        url: /index/
-      - title: Test2
-        url: /index/
-      - title: Test3
-        url: /index/
+  - title: "About Me"
+    url: /about/
+  - title: "Tech Stream"
+    url: /techstream/
+  - title: "Travel Stream"
+    url: /travelstream/
+  - title: Archive
+    sublinks:
+      - title: By Tag
+        url: /tags/
+      - title: By Category
+        url: /categories/
+      - title: By Year
+        url: /year-archive/
