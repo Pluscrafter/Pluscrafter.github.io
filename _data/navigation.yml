@@ -5,14 +5,12 @@
 - title: Test2
   url: /test2
 - title: Electronics
-  url: /Electronics
   sublinks:
   - title: Test1
     url: /Electronics/test1
   - title: Test2
     url: /Electronics/test2
 - title: Programming
-  url: /Programming
   sublinks:
   - title: Test1
     url: /Programming/test1
