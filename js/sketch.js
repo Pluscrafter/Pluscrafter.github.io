@@ -61,7 +61,7 @@ function setup() {
 		bird.draw();
 		textSize(20);
 		fill(0, 0, 255);
-		text('PRESS SPACE TO START', width/4, height/2);
+		text('PRESS A TO START AND JUMP', width/4, height/2);
 	}
 }
 
@@ -103,7 +103,7 @@ function draw() {
 
 
 function keyPressed() {
-    if(keyCode == 32){
+    if(keyCode == 0){
 		if(!startMode && !deathMode){
 			bird.jump();
 			bounced = millis();
