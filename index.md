@@ -10,7 +10,7 @@ Why not there are so many in the net, but so I can express my ideas and my hobbi
 I host my website with Github because it's free. I can only create static sites but this is enought for my needs.
 
 ### A little game
-<script src="https://raw.githubusercontent.com/D3PSI/flappy-js/master/js/sketch.js"></script>
-<script src="https://raw.githubusercontent.com/D3PSI/flappy-js/master/js/tile.js"></script>
-<script src="https://raw.githubusercontent.com/D3PSI/flappy-js/master/js/bird.js"></script>
+<script src="js/sketch.js"></script>
+<script src="js/tile.js"></script>
+<script src="js/bird.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/p5@1.0.0/lib/p5.js"></script>
