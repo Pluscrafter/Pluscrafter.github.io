@@ -4,7 +4,7 @@ I'm interested in electronics and programming and this is my website for all pro
 
 Also I will get maybe my CEPT/HB9 Licence for amateur radio in december. Maybe there will also be some topics about this project. 
 
-### Why a Website?
+### Why a website?
 Why not there are so many in the net, but so I can express my ideas and my hobbies and maybe help someone with a problem in this field. Also you can communicate with other fellows in your field of interest.
 
 I host my website with Github because it's free. I can only create static sites but this is enought for my needs.
