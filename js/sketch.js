@@ -87,7 +87,7 @@ function draw() {
 			bird.m_color = color(random(0,255), random(0,255), random(0,255)); //https://youtu.be/uFDMKOL533E
 		}
 		
-		textSize(20);
+		textSize(64);
 		fill(0, 0, 255);
 		text(score, 10, 60);
 	}
