@@ -46,7 +46,7 @@ function setup() {
     tiles.push(new Tile(6));
 
     let canvas = createCanvas(width, height);
-    canvas.position(WIDTH / 4, 0, "fixed");
+    canvas.parent('sketch-holder');
 	if (startMode){
 		background(240);
 		tiles.forEach(_tile => {
@@ -59,7 +59,7 @@ function setup() {
 		});
 		bird.update();
 		bird.draw();
-		textSize(64);
+		textSize(20);
 		fill(0, 0, 255);
 		text('PRESS SPACE TO START', width/4, height/2);
 	}
