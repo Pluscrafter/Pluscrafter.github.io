@@ -26,8 +26,8 @@ function preload() {
 }
 
 function setup() {
-    width = document.documentElement.clientWidth;
-    height = document.documentElement.clientHeight;
+    width = 800 ;
+    height = 600;
     // keep aspect ratio at 4:3, such that always exactly 
     // 4 elements with width = width / 4 fit on screen
 	// add start conditition 
