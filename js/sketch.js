@@ -1,7 +1,7 @@
 
 
 var SPEED  = 5;       // the game speed (how many pixels per iteration it shifts)
-const POWER  = 30;      // the jump power of the bird (initial upwards velocity for jump)
+const POWER  = 20;      // the jump power of the bird (initial upwards velocity for jump)
 const BOUNCE = 0.65;    // percentage of the jump energy to get inverted on impact with floor or ceiling
 
 var WIDTH;
@@ -87,12 +87,12 @@ function draw() {
 			bird.m_color = color(random(0,255), random(0,255), random(0,255)); //https://youtu.be/uFDMKOL533E
 		}
 		
-		textSize(64);
+		textSize(20);
 		fill(0, 0, 255);
 		text(score, 10, 60);
 	}
 	if(deathMode){
-		textSize(64);
+		textSize(20);
 		fill(0, 0, 255);
 		if(score != 666)
 			text('SCORE:' + score + ' HIGHSCORE: ' + highscore, width/4, height/2);
