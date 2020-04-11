@@ -1,7 +1,7 @@
 
 
 var SPEED  = 5;       // the game speed (how many pixels per iteration it shifts)
-const POWER  = 20;      // the jump power of the bird (initial upwards velocity for jump)
+const POWER  = 30;      // the jump power of the bird (initial upwards velocity for jump)
 const BOUNCE = 0.65;    // percentage of the jump energy to get inverted on impact with floor or ceiling
 
 var WIDTH;

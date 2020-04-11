@@ -12,7 +12,7 @@ I host my website with Github because it's free. I can only create static sites 
 ### A little game
 For homework(because of COVID-19) in computer science class my friend and I had to create a flappy-bird copy in javascript. And here are the results. A wierd game of Flappy Bird, maybe you can find out the easter egg.
 
-[Here](https://github.com/D3PSI/flappy-js) is the link to the project/homework. I recommend to find the easter egg with the console or by trying. It's funny so.
+[Here](https://github.com/D3PSI/flappy-js) is the link to the project/homework. I recommend to find the easter egg with the console or by trying. It's more funny so.
 
 
 <div id="sketch-holder"></div>
